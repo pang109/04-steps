@@ -7,12 +7,3 @@
 
 ## 🌟 **Demo**
 ![Step Counter UI](https://github.com/user-attachments/assets/87bef870-6409-46ed-818e-7b3e6da78cc1)
-
----
-
-## 📦 **Cài đặt & Chạy Dự Án**
-
-### 👉 **1. Clone Repository**
-```sh
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
